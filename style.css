@@ -183,7 +183,7 @@ header{
 /*Features section*/
 .features-section{
     padding:80px var(--padding-inline-section);
-    background-image: url(/assets/asset\ 34.svg);
+    background-image: url(assets/asset\ 34.svg);
     background-repeat: no-repeat;
     background-position:center;
 }
